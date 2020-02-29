@@ -1,7 +1,9 @@
 # ChrisPittman343.github.io
-Created entirely by THE Chris Pittman
+Created entirely by Chris Pittman
 
 This is a minesweeper remake, programmed in React.
+
+By no means is this optimal, but it works for the most part.
 
 One key difference between this and the real thing is that all mines must be flagged to win. This can be done by right clicking a node.
 
