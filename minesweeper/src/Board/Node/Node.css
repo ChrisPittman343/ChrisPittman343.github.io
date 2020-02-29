@@ -1,0 +1,106 @@
+.node {
+  padding: 1px 0;
+  margin: 0px;
+  width: 23px;
+  height: 23px;
+  background-color: rgb(126, 126, 126);
+  border-top: 3px rgb(175, 175, 175) outset;
+  border-bottom: 3px rgb(44, 44, 44) inset;
+  border-left: 3px rgb(175, 175, 175) outset;
+  border-right: 3px rgb(44, 44, 44) inset;
+  display: inline-block;
+}
+
+.node-visited {
+  background-color: rgb(197, 197, 197);
+  background-position: center;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-1 {
+  background-image: url(../Images/1.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-2 {
+  background-image: url(../Images/2.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-3 {
+  background-image: url(../Images/3.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-4 {
+  background-image: url(../Images/4.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-5 {
+  background-image: url(../Images/5.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-6 {
+  background-image: url(../Images/6.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-7 {
+  background-image: url(../Images/7.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-8 {
+  background-image: url(../Images/8.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 27px;
+  height: 27px;
+  border: 1px rgb(44, 44, 44) solid;
+}
+
+.node-flagged {
+  background-image: url(../Images/flag.png);
+  background-position: center;
+}
+
+.node-1st-mine {
+  background-image: url(../Images/1stMine.png);
+  background-position: center;
+}
+.node-mined {
+  background-image: url(../Images/mine.png);
+  background-position: center;
+}

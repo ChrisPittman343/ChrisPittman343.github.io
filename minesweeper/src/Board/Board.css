@@ -1,0 +1,46 @@
+.board {
+  margin: 1em 0;
+  padding: 0;
+  text-align: center;
+}
+
+.board-row {
+  padding: 0 0;
+  margin: 0;
+  height: 31px;
+}
+
+#info-div {
+  width: 50%;
+  margin: auto;
+  font-size: 20px;
+}
+
+#info {
+  margin: auto;
+  text-align: center;
+}
+
+#reset {
+  background-image: url(../Board/Images/happy.png);
+  background-position: center;
+  margin: 0 10em;
+  width: 33px;
+  height: 33px;
+  border-top: 2px rgb(175, 175, 175) outset;
+  border-bottom: 2px rgb(44, 44, 44) inset;
+  border-left: 2px rgb(175, 175, 175) outset;
+  border-right: 2px rgb(44, 44, 44) inset;
+}
+
+#bot {
+  background-image: url(../Board/Images/bot.png);
+  background-position: center;
+  margin: 0 10em;
+  width: 33px;
+  height: 33px;
+  border-top: 2px rgb(175, 175, 175) outset;
+  border-bottom: 2px rgb(44, 44, 44) inset;
+  border-left: 2px rgb(175, 175, 175) outset;
+  border-right: 2px rgb(44, 44, 44) inset;
+}
