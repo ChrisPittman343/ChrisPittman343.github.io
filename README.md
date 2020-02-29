@@ -1,4 +1,4 @@
-# ChrisPittman343.github.io
+# Minesweeper
 Created entirely by Chris Pittman
 
 This is a minesweeper remake, programmed in React.
