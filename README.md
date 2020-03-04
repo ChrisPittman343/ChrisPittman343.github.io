@@ -9,7 +9,7 @@ One key difference between this and the real game is that all mines must be flag
 
 As an addition, this program has a built in solving algorithm should you get bored while playing. Just press the button with a robot on it to begin. Once the algorithm has started, it cannot be stopped, unless it gets stuck due to a logic failure (Forced 50/50 guess).
 
-You can play it at here at https://codesandbox.io/s/friendly-brattain-2udjn (I suggest opening it in a new tab so it fits the entire screen). Because Code Sandbox caused some issues with the game, a few changes were made on the files in the link:
+You can play it at here at https://codesandbox.io/s/friendly-brattain-2udjn (I suggest opening it in a new tab so it fits the entire screen). Because Code Sandbox caused some issues with the game, a few changes were made on the files in the link (The Github files are still the same):
   1. The timer was removed (Lag made the timer go haywire)
   2. The speed at which an unsurrounded node is clicked was lowered (To avoid the stack call limit)
   3. The algorithm's speed was lowered (To avoid the stack call limit)
